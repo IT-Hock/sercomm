@@ -25,8 +25,6 @@
 #ifndef INCLUDE_SERCOMM_COMMON_H_
 #define INCLUDE_SERCOMM_COMMON_H_
 
-#include "config.h"
-
 /**
  * @file sercomm/common.h
  * @brief Common header.
